@@ -213,3 +213,8 @@ h6, .h6 {
  h3{
   width: 500px;
  }
+ .
+ .glyphicon-download-alt:before {
+    content: "\e197";
+    
+}
